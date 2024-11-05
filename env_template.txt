@@ -1,0 +1,7 @@
+S3_BUCKET = bucket-name
+GOOGLE_SHEETS_CREDENTIALS = path/to/credentials/file
+SHEET_ID_KEYWORDS = google-sheet-id
+SHEET_ID_INVESTORS = google-sheet-id
+OPENAI_API_KEY = your-api-key
+AWS_ACCESS_KEY = your-aws-key
+AWS_SECRET_KEY = your-aws-secret
