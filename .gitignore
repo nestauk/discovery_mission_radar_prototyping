@@ -169,3 +169,4 @@ data/
 *.csv
 google_credentials.json
 tmp/
+data/
