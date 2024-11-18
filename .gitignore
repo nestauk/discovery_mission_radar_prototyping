@@ -161,7 +161,6 @@ cython_debug/
 #.idea/
 
 data/
-notebooks/
 .DS_Store
 .vscode/
 
@@ -170,3 +169,4 @@ notebooks/
 *.csv
 google_credentials.json
 tmp/
+data/
