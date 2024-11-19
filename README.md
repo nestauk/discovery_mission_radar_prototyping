@@ -31,6 +31,28 @@ To add a new package, use poetry add:
 poetry add package-name
 ```
 
+## Updating discovery_utils package
+
+The discovery_utils package is actively updated with new features. This means that its functionality may change over time. If you need to update the discovery_utils package, follow these instructions.
+
+It is a bit complicated, but not sure if there is a simpler way in situations where the package is an actively updated repo that is (not yet) submitted to the pip repository.
+
+Comment out the line `discovery-utils = {git = "https://github.com/nestauk/discovery_utils.git" ...` in pyproject.toml by adding hashtag at the very beginning. For example:
+
+```toml
+#discovery-utils = {git = "https://github.com/nestauk/discovery_utils.git", rev = "dev"}
+```
+
+Run `poetry lock` in your terminal and then run `poetry install` (this will uninstall the old version)
+
+Remove the hastag, so that the line in pyproject.toml now looks like this:
+
+```toml
+discovery-utils = {git = "https://github.com/nestauk/discovery_utils.git", rev = "dev"}
+```
+
+Run `poetry lock` and `poetry install` again (this will install the new version)
+
 ## Repo structure
 
 ```
