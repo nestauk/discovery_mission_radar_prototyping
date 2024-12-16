@@ -4,11 +4,13 @@ search_recipe:
     - "Child online safety and privacy"
     - "Protecting children in the digital age"
     - "Protecing children from online threats"
+    - "Protecting children from cyber bullying"
     - "Ensuring children's safety online"
     - "Ensuring children's privacy online"
     - "Helping parents protect their children online"
     - "Helping parents inform their children about online safety"
     - "Helping parents monitor their children's online activity"
+    - "Helping children with digital addiction"
 
   keyword_sets:
     - set_name: "Domain keywords"
@@ -52,3 +54,6 @@ search_recipe:
         - "ransomware"
         - "zero day exploit"
         - "cloud security"
+        - "cyber bullying"
+        - "digital addiction"
+        - "inappropriate content"
