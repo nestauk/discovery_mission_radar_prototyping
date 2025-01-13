@@ -1,0 +1,10 @@
+---
+search_recipe:
+  scope_statements:
+    - "Reducing obesity"
+    - "Helping people with obesity"
+
+  keyword_sets:
+    - set_name: "Domain keywords"
+      keywords:
+        - "obesity"
