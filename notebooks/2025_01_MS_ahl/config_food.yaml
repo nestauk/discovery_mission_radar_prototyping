@@ -1,0 +1,25 @@
+---
+search_recipe:
+  scope_statements:
+    - "Healthy food products and research"
+    - "Nutrition products and research"
+    - "Reformulated food research and innovations"
+    - "Improving food environments"
+    - "Food policy and regulations"
+    - "Food marketing and labeling"
+
+  keyword_sets:
+    - set_name: "Food keywords"
+      keywords:
+        - "healthy food"
+        - "nutrition"
+        - "reformulated food"
+        - "food reformulation"
+        - "food environment"
+        - "food policy"
+        - "food marketing"
+        - "food labeling"
+        - "food innovation"
+        - "food research"
+        - "food science"
+        - "food product"

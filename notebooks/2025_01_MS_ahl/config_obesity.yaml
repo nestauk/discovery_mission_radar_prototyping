@@ -1,0 +1,22 @@
+---
+search_recipe:
+  scope_statements:
+    - "Reducing obesity"
+    - "Helping people with obesity"
+    - "Obesity prevention"
+    - "Weight loss drugs"
+    - "GLP-1 receptor agonists"
+    - "Bariatric surgery"
+    - "Diabetes and obesity"
+    - "Obesity and cancer"
+
+  keyword_sets:
+    - set_name: "Obesity keywords"
+      keywords:
+        - "obesity"
+        - "overweight"
+        - "weight loss"
+        - "weight management"
+        - "diabetes"
+        - "bariatric surgery"
+        - "glp-1"
