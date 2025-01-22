@@ -48,6 +48,10 @@ pre-commit = ">=2.18.1"                    # Runs a pipeline before commiting co
 black = ">=22.6.0"                         # Python style checks
 
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
 [tool.black]
 line-length = 119
 target-version = ['py39']
