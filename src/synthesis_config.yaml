@@ -1,0 +1,115 @@
+---
+mission_info:
+  ASF: |
+    Nesta's Sustainable Future Mission places significant emphasis on heat pumps and
+    other low-carbon heating technologies (such as heat networks) as key technologies for decarbonising homes and transitioning to a low-carbon economy.
+    Mission scope also includes general decarbonisation efforts, such as renewable energy generation, energy storage, policies around boilers and heating in general, grid capacity, energy efficiency measures,
+    utilities companies, energy bills, consumer protection, Great British Energy (GB Energy), EPC (Energy Performance Certificates), Future Homes Standard,
+    Boiler Upgrade Scheme, Low Carbon Heat Scheme, Warm Homes Plan, Heat networks regulation, and green technologies (including solar, wind, hydrogen, carbon capture and others)
+    Key focus areas include:
+    Scaling Heat Pump Adoption: Promoting widespread use of heat pumps to replace traditional fossil fuel heating systems, such as gas boilers, to significantly reduce carbon emissions from residential heating.
+    Reducing Costs and Barriers: Supporting innovation and policy recommendations to lower the upfront and operational costs of heat pump installation, making them accessible to more households. This includes lowering the price of electricity
+    and increasing the efficiency of heat pumps.
+    Improving Energy Efficiency: Encouraging the adoption of energy-efficient heat pump systems alongside home insulation improvements to maximise impact.
+    Raising Public Awareness: Educating homeowners about the benefits of heat pumps, including lower energy bills, improved comfort, and environmental benefits.
+    Policy and Industry Collaboration: Working with governments, local authorities, and industry stakeholders to create supportive frameworks, such as incentives, subsidies, and streamlined installation processes.
+    Data and Evidence for Innovation: Using data-driven approaches to identify opportunities for improving heat pump technology, deployment strategies, and user satisfaction.
+    Equitable Transition: Ensuring low-income households can access heat pumps through targeted financial support and initiatives to prevent energy poverty.
+  AFS: |
+    Nesta's Fairer Start Mission focuses on improving outcomes for children in the UK, particularly from disadvantaged backgrounds.
+    Mission scope includes early childhood development, reducing inequalities, parental support, innovation in early years services, using AI and data to improve services, edtech, professional development in the early years education sector, Sure Start 2.0, Minimum income guarantee (MIG), Scottish Child Payment (SCP), Two Child Limit (2CL)
+    Key aspects include:
+    Early Childhood Development: Supporting children to reach developmental milestones, particularly in cognitive, emotional, and social skills by the age of five.
+    Reducing Inequalities: Addressing systemic disparities in access to quality early education, healthcare, and family support services.
+    Parental Support: Enhancing parental engagement through evidence-based interventions and tools to improve parenting practices.
+    Innovation in Early Years Services: Integrating data-driven and innovative approaches to improve the design and delivery of early childhood services.
+    Collaboration with Local Authorities and Partners: Working with schools, healthcare providers, and local services to create holistic and seamless support systems.
+    Long-Term Impact: Focusing on initiatives that have the potential to improve long-term outcomes for children, including education and future employment prospects.
+  AHL: |
+    Nesta's A Healthy Life Mission aims to increase the number of years people in the UK live in good health, with a particular focus on reducing health inequalities. A significant area of this mission is tackling obesity to improve health outcomes and prevent related diseases.
+    Mission scope also includes broader health topics such as public health policies, healthcare access, preventive health care, and social determinants of health, HFSS food (high in fat, salt, and sugar) and ultraprocessed food.
+    Key aspects include:
+    Reducing Obesity Rates: Targeting a reduction in rates of obesity, especially in communities with high levels of health inequality, through innovative interventions and support systems.
+    Healthy Food Environments: Collaborating with retailers, policymakers, and local authorities to make healthier food options more affordable, accessible, and appealing.
+    Behavioral Science: Applying evidence from behavioral science to design interventions that encourage healthier eating habits, such as reducing the consumption of high-calorie processed foods.
+    Innovative Technology and Data: Leveraging data-driven approaches and technology to identify patterns, measure outcomes, and create personalised tools for individuals to manage weight and health.
+    Focusing on Childhood Obesity: Addressing obesity early in life by supporting healthier school meals, improving access to physical activity programs, and educating families on nutrition.
+    Collaborative Approaches: Partnering with healthcare providers, community organisations, and businesses to scale evidence-based strategies for long-term impact.
+    Targeting Inequalities: Ensuring that solutions are equitable and address the disproportionate impact of obesity on low-income and marginalised communities.
+    By addressing obesity, Nesta aims to not only improve individual health but also reduce the burden on healthcare systems and create healthier, more resilient communities.
+
+
+debate_summary:
+  system_message: |
+    You are an expert researcher.
+    Provide a well rounded overview and summary of the positive and negatives, considering the various inputs from the speakers.
+    Use focused summarisation approach by highlighting essential information, reasoning and causal links.
+    Rely strictly on the provided text.
+    Use British English.
+    Write using short sentences.
+    Do not make up any information! Only use the information provided in the debate.
+  user_message: |
+    Provide a structured summary of the debate content:
+      1. Purpose: Summarise the main theme or purpose of the debate - what is being proposed.
+      2. Positives: List key positive aspects or arguments raised.
+      3. Negatives: List key criticisms or issues discussed.
+      4. Next Steps: List proposed follow-ups or action points.
+    When writing the summary, follow these guidelines:
+    Incorporate main ideas and essential information, eliminating extraneous language and focusing on critical aspects.
+    Use British English.
+    Don't use markdown formatting
+    Whenever possible, incorporate specific evidence, facts, hard numbers, policies, programmes, or places mentioned in the debate to make the summary highly informative.
+    Be very specific - if possible, retain names of specific places, numbers and organisations.
+    Write short sentences (5-10 words only + add hard numbers and stats from the text of there are such).
+    Limit the number of points per each section to 3-4.
+    Where possible, note which speaker or speakers proposed each point (using only last names) and their party (using abbreviations: Labour: Lab, Conservatives: Con, Liberal Democrats: Lib Dem, Reform: Ref, Greens: Greens, Scottish National Party: SNP, Independent: Ind).
+    Keep the speaker names at the end of the sentences in brackets.
+    \n\n##Debates:\n{input}
+
+quote_summary:
+  system_message: |
+    You are an expert researcher.
+    Provide a concise summary of the quote.
+    Rely strictly on the provided text.
+    Use British English.
+    Write using short sentences.
+    Do not make up any information! Only use the information provided in the debate.
+  user_message: |
+    You are provided with three consecutive speeches from the House of Commons:
+    PREVIOUS SPEECH, SPEECH WITH KEYWORDS and NEXT SPEECH.
+
+    The speech with the keyword might be in response to the PREVIOUS SPEECH or
+    it might make a statement or question that is the responded to with the NEXT SPEECH.
+    It might also be the case the there is no topical connection between the three speeches.
+
+    Decide which case is it, and then summarise the SPEECH WITH THE KEYWORD in one
+    very short sentence, explaining the essence of the statement
+    (primarily with respect to the keyword) in the SPEECH WITH THE KEYWORD - and
+    if needed, also what was the context for this statement (taking info from PREVIOUS SPEECH)
+    or what was the followup to this statement (from NEXT SPEECH).
+
+    So, the summary should follow one of these formats:
+    - if no relation between keyword speech and the others: "Surname (Party) said x"
+    - if related with the previous speech: "Surname (Party) said x in response to statement from Other Surname (Party) about z"
+    - if related with the next speech: "Surname (Party) said/asked x and Other Surname (Party) replied that y"
+
+    If you have one or more of the keywords in the summary, surround them with asterisks * from both sides (so that they are rendered in bold when displayed)
+
+    Keep the summary strictly about the topic captured by the keywords.
+    Do not include any extraneous information.
+    Include factual information such as numbers or places quoted.
+    Use only last names (surnames) and party abbreviations: Labour: Lab, Conservatives: Con, Liberal Democrats: Lib Dem, Reform: Ref, Greens: Greens, Scottish National Party: SNP, Independent: Ind.
+    \n\n##Speeches:\n{input}
+
+relevance_classifier:
+  system_message: |
+    You are an expert in policy relevance classification.
+    Determine the relevance of the text to the given policy areas.
+    Use the provided text to decide if it is relevant, irrelevant, or unclear for each policy area: if relevant, output True; if irrelevant or unclear, output False.
+  user_message: |
+    Classify the text based on its relevance to the following policy areas:
+    Determine if the text is highly relevant to this policy area and provide the corresponding classification (True/False).
+    Use the information provided in the text to make your decision.
+    If the relevance is unclear or the text does not provide enough information, classify it as False.
+    \n\n## Policy area: {policy_area}
+    \n\n##Text:\n{input}
