@@ -1,0 +1,16 @@
+---
+search_recipe:
+  scope_statements:
+    - "Support for weight loss drugs"
+    - "Research on GLP-1"
+    - "Companies working on weight loss drugs"
+    - "Wrap around support for weight loss drug patients"
+
+  keyword_sets:
+    - set_name: "Weight loss drugs"
+      keywords:
+        - "weight loss drugs"
+        - "glp-1"
+        - "semiglutide"
+        - "ozempic"
+        - "wegovy"
