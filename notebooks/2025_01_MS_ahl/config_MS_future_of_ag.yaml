@@ -1,0 +1,32 @@
+---
+search_recipe:
+  scope_statements:
+    - "Innovations transforming agricultural practices"
+    - "Technologies enabling sustainable farming solutions"
+    - "Companies advancing precision agriculture and smart farming"
+    - "Emerging trends in urban and vertical farming"
+    - "Solutions focused on regenerative and climate-resilient agriculture"
+
+  keyword_sets:
+    - set_name: "future of agriculture"
+      keywords:
+        - "Vertical farming"
+        - "Hydroponics"
+        - "Aquaponics"
+        - "Precision agriculture"
+        - "Smart farming"
+        - "Regenerative agriculture"
+        - "Sustainable agriculture"
+        - "Agri-tech innovations"
+        - "Farm automation"
+        - "Crop monitoring"
+        - "Drought-resistant crops"
+        - "Soil health technologies"
+        - "Agricultural robotics"
+        - "AI in agriculture"
+        - "IoT in farming"
+        - "Alternative proteins"
+        - "Urban farming"
+        - "Agri-sustainability solutions"
+        - "Carbon farming"
+        - "Biotech in agriculture"

@@ -1,0 +1,33 @@
+---
+search_recipe:
+  scope_statements:
+    - "Innovations disrupting the food and beverage industry"
+    - "Companies offering sustainable or eco-friendly food solutions"
+    - "Emerging players in plant-based and alternative protein markets"
+    - "Businesses focused on health-conscious and functional food products"
+    - "Direct-to-consumer food and beverage innovations"
+
+
+  keyword_sets:
+    - set_name: "challenger brands"
+      keywords:
+        - "Challenger food"
+        - "Emerging food companies"
+        - "Disruptive food innovations"
+        - "Innovative beverages"
+        - "Alternative foods"
+        - "Sustainable food"
+        - "Plant-based foods"
+        - "Functional beverages"
+        - "Direct-to-consumer food"
+        - "Clean label products"
+        - "Organic foods"
+        - "Health-focused foods"
+        - "Personalised nutrition"
+        - "Snack innovation"
+        - "Low sugar beverages"
+        - "Alternative proteins"
+        - "Eco-friendly packaging"
+        - "Artisan foods"
+        - "Regenerative agriculture"
+        - "Future food innovations"
