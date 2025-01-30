@@ -17,6 +17,7 @@ langchain = "^0.3.7"
 langchain-openai = "^0.3.1"
 langchain-core = "^0.3.15"
 bertopic = "^0.16.4"
+vl-convert-python = "^1.7.0"
 
 
 [build-system]
