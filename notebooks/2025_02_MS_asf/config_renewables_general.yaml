@@ -1,0 +1,11 @@
+---
+search_recipe:
+  scope_statements:
+    - "Home heating solutions"
+    - "Low carbon technologies"
+    - "Renewable energy systems"
+
+  keyword_sets:
+    - set_name: "Renewables - General keywords"
+      keywords:
+        - "renewable energy"

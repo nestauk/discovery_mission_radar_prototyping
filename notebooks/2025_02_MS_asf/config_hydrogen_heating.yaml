@@ -1,0 +1,13 @@
+---
+search_recipe:
+  scope_statements:
+    - "Sustainable hydrogen heating solutions for homes and buildings"
+    - "Integration of hydrogen heating with renewable energy systems"
+    - "Hydrogen boilers"
+
+  keyword_sets:
+    - set_name: "Hydrogen heating keywords"
+      keywords:
+        - "hydrogen"
+        - "heat"
+        - "boiler"

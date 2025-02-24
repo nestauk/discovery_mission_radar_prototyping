@@ -1,0 +1,11 @@
+---
+search_recipe:
+  scope_statements:
+    - "Bioenergy solutions for low carbon energy systems"
+    - "Bioenergy for household energy use"
+    - "Sustainable bioenergy solutions"
+
+  keyword_sets:
+    - set_name: "Bioenergy keywords"
+      keywords:
+        - "bioenergy"
