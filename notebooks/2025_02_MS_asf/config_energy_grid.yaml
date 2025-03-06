@@ -1,5 +1,7 @@
 ---
 search_recipe:
+  category_name: "Energy grid"
+  
   scope_statements:
     - "Technologies to decarbonise and upgrade energy grids"
     - "Integration of renewable energies into energy grids"

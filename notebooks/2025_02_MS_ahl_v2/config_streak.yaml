@@ -1,0 +1,39 @@
+---
+search_recipe:
+  scope_statements:
+    - "Gamified habit formation platform for GLP-1 users to maintain long-term consistency"
+    - "Streak-based rewards system that incentivizes healthy lifestyle adherence"
+    - "Cash-back incentives, lifestyle perks, and milestone unlocks for sustained healthy habits"
+    - "Marketplace where health-conscious brands bid for placement in the rewards ecosystem"
+    - "Integration with pharmacies and insurers for dynamic GLP-1 pricing and insurance benefits"
+    - "AI-powered tracking of health habit data to personalize rewards and motivation strategies"
+    - "Encouraging long-term behavioral change beyond GLP-1 medication through gamification"
+
+  keyword_sets:
+    - set_name: "GLP-1 & Health Optimization"
+      keywords:
+        - "weight loss medication"
+        - "GLP-1"
+        - "weight loss"
+        - "healthy weight"
+        - "weight management"
+        - "diabetes"
+        - "diabetes management"
+    - set_name: "Gamified Habit Formation"
+      keywords:
+        - "habit"
+        - "habit formation"
+        - "habit streak"
+        - "rewards system"
+        - "streak-based rewards"
+        - "gamification"
+        - "incentivization"
+        - "incentivisation"
+        - "behavior change"
+        - "milestones"
+        - "cash-back"
+        - "health rewards"
+        - "fitness perk"
+        - "wellness perk"
+        - "lifestyle perk"
+        - "behavior-based pricing models"

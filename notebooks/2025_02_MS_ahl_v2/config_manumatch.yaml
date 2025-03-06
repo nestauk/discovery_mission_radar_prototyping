@@ -1,0 +1,41 @@
+---
+search_recipe:
+  scope_statements:
+    - "AI-powered matchmaking platform for food and beverage (F&B) brands and manufacturers"
+    - "Streamlined manufacturer discovery and selection for small and medium enterprise (SME) food and beverage brands"
+    - "End-to-end contract negotiation and due diligence management for food production"
+    - "Efficient order processing and production updates for F&B brands and co-packers"
+    - "Automated manufacturer matching based on product requirements and production capacity"
+    - "Digital platform optimizing co-packer selection and production planning"
+    - "Simplifying sourcing, negotiations, and partnerships between food brands and manufacturers"
+
+  keyword_sets:
+    - set_name: "food manufacturer keywords"
+      keywords:
+        - "food manufacturer"
+        - "food production"
+        - "co-packer"
+        - "co-packing"
+        - "food supplier"
+        - "food production partner"
+        - "food and beverage supply chain"
+        - "food supply chain"
+    - set_name: "contract negotiation and compliance"
+      keywords:
+        - "matching"  
+        - "sourcing"
+        - "contract management"
+        - "contract negotiation"
+        - "due diligence"
+        - "verification"
+        - "compliance"
+        - "order processing"
+        - "optimisation"
+        - "optimization"
+        - "tracking"
+        - "timeline"
+        - "timeline management"
+        - "planning"
+        - "management"
+        - "managing"
+        - "partnership"

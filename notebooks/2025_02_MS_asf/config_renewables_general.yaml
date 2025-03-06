@@ -1,9 +1,9 @@
 ---
 search_recipe:
+  category_name: "Renewables"
+
   scope_statements:
-    - "Home heating solutions"
-    - "Low carbon technologies"
-    - "Renewable energy systems"
+    - "Renewable energy solutions"
 
   keyword_sets:
     - set_name: "Renewables - General keywords"

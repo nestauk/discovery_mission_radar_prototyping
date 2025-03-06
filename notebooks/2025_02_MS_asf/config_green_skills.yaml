@@ -1,5 +1,7 @@
 ---
 search_recipe:
+  category_name: "Green skills"
+  
   scope_statements:
     - "Developing a workforce skilled in sustainable and low-carbon technologies"
     - "Upskilling and reskilling workers for the green economy"

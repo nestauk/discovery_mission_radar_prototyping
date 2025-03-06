@@ -1,5 +1,7 @@
 ---
 search_recipe:
+  category_name: "Hydrogen energy"
+
   scope_statements:
     - "Low-carbon hydrogen production and utilisation"
     - "Integration of hydrogen into renewable energy systems"
@@ -9,9 +11,8 @@ search_recipe:
     - set_name: "Hydrogen energy keywords"
       keywords:
         - "fuel cell"
+        - "hydrogen energy"
         - "blue hydrogen"
         - "green hydrogen"
-        - "energy"
         - "grey hydrogen"
-        - "hydrogen"
         - "gray hydrogen"

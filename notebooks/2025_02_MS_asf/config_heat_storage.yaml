@@ -1,5 +1,7 @@
 ---
 search_recipe:
+  category_name: "Heat storage"
+  
   scope_statements:
     - "Sustainable heat storage solutions for residential heating and energy efficiency"
     - "Enhancing home heating flexibility with heat storage technology"

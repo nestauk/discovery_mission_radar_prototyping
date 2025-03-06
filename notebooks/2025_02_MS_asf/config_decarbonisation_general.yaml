@@ -1,5 +1,7 @@
 ---
 search_recipe:
+  category_name: "Decarbonisation - General"
+
   scope_statements:
     - "Decarbonisation technologies and solutions"
     - "Decarbonisation innovations"

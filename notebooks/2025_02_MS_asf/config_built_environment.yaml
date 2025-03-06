@@ -1,5 +1,7 @@
 ---
 search_recipe:
+  category_name: "Built environment"
+
   scope_statements:
     - "Decarbonisation of the built environment"
     - "Low carbon homes and houses"
@@ -9,9 +11,12 @@ search_recipe:
     - set_name: "Built environment keywords"
       keywords:
         - "house"
-        - "built"
         - "home"
-        - "decarbon"
+        - "built"
         - "build"
-        - "low carbon"
         - "built environment"
+    - set_name: "Energy efficiency keywords"
+      keywords:
+        - "decarbonisation"
+        - "decarbon"
+        - "low carbon"
