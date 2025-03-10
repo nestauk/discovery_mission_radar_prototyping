@@ -1,0 +1,28 @@
+---
+search_recipe:
+  scope_statements:
+    - "Startups focused on tackling childhood obesity"
+    - "Technologies for paediatric weight management"
+    - "Solutions addressing child nutrition and healthy habits"
+    - "Research on childhood obesity prevention and intervention"
+    - "Programmes supporting healthy lifestyles for children"
+    - "Innovations in paediatric obesity monitoring and treatment"
+
+  keyword_sets:
+    - set_name: "core child obesity"
+      keywords:
+        - "child obesity"
+        - "childhood obesity"
+        - "paediatric nutrition"
+        - "child"
+        - "children"
+    - set_name: "additional child obesity"
+      keywords:
+        - "weight management"
+        - "diabetes"
+        - "healthy eating"
+        - "fitness"
+        - "meal planning"
+        - "portion control"
+        - "healthy snacks"
+        - "telehealth"

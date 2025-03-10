@@ -1,0 +1,38 @@
+---
+search_recipe:
+  scope_statements:
+    - "Startups focused on using food as a therapeutic intervention"
+    - "Research and development in functional and medicinal foods"
+    - "Companies innovating in personalised nutrition for health management"
+    - "Solutions addressing chronic diseases through diet and nutrition"
+    - "Technologies and platforms enabling food-based disease prevention"
+
+  keyword_sets:
+    - set_name: "food as medicine"
+      keywords:
+        - "Food as medicine"
+        - "Functional foods"
+        - "Medicinal nutrition"
+        - "Nutraceuticals"
+        - "Medical nutrition therapy"
+        - "Dietary therapeutics"
+        - "Precision nutrition"
+        - "Gut health foods"
+        - "Anti-inflammatory diets"
+        - "Plant-based therapeutics"
+        - "Immune-boosting foods"
+        - "Therapeutic diets"
+        - "Nutrition for chronic diseases"
+        - "Metabolic health nutrition"
+        - "Cardiometabolic nutrition"
+        - "Nutritional support for diabetes"
+        - "Cancer nutrition therapy"
+        - "Neurological health diets"
+        - "AI for personalised nutrition"
+        - "Nutrigenomics"
+        - "Functional food startups"
+        - "Digital health and nutrition"
+        - "Food-based disease management"
+        - "Child-focused nutritional therapies"
+        - "Elderly health and nutrition"
+        - "Nutrition for pregnancy"

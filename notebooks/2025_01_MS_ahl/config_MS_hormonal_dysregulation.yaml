@@ -1,0 +1,32 @@
+---
+search_recipe:
+  scope_statements:
+    - "Startups focused on hormone imbalance solutions"
+    - "Research and development in hormone therapy"
+    - "Technologies for monitoring hormone levels"
+    - "Innovations addressing hormonal health issues"
+    - "Support systems for managing hormone-related disorders"
+
+  keyword_sets:
+    - set_name: "core hormonal dysregulation"
+      keywords:
+        - "hormonal dysregulation"
+        - "endocrine dysfunction"
+        - "hormone imbalance"
+        - "dysregulated hormones"
+        - "insulin resistance"
+    - set_name: "additional hormonal dysregulation"
+      keywords:
+        - "weight management"
+        - "diabetes"
+        - "obesity"
+        - "overweight"
+        - "metabolism"
+        - "healthy eating"
+        - "meal planning"
+        - "portion control"
+        - "healthy snacks"
+        - "telehealth"
+        - "therapeutics"
+        - "digital health"
+        - "diet"
