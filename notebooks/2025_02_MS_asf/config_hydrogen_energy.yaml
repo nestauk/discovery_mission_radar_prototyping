@@ -1,0 +1,18 @@
+---
+search_recipe:
+  category_name: "Hydrogen energy"
+
+  scope_statements:
+    - "Low-carbon hydrogen production and utilisation"
+    - "Integration of hydrogen into renewable energy systems"
+    - "Hydrogen solutions for transport and home heating"
+
+  keyword_sets:
+    - set_name: "Hydrogen energy keywords"
+      keywords:
+        - "fuel cell"
+        - "hydrogen energy"
+        - "blue hydrogen"
+        - "green hydrogen"
+        - "grey hydrogen"
+        - "gray hydrogen"

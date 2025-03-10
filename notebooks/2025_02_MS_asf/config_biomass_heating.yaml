@@ -1,0 +1,14 @@
+---
+search_recipe:
+  category_name: "Biomass heating"
+  
+  scope_statements:
+    - "Sustainable biomass heating solutions for homes"
+    - "Low-carbon and efficient biomass heating for households"
+    - "Biomass heating and home energy systems"
+
+  keyword_sets:
+    - set_name: "Biomass heating keywords"
+      keywords:
+        - "biomass boiler"
+        - "biomass heat"

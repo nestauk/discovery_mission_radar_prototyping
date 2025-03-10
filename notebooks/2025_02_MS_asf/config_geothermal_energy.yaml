@@ -1,0 +1,14 @@
+---
+search_recipe:
+  category_name: "Geothermal energy"
+
+  scope_statements:
+    - "Geothermal energy solutions for heating and electricity"
+    - "Geothermal energy for home heating"
+    - "Innovations in geothermal energy exploration and utilisation"
+
+  keyword_sets:
+    - set_name: "Geothermal energy keywords"
+      keywords:
+        - "geothermal energy"
+        - "geothermal heat"

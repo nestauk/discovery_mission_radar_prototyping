@@ -1,0 +1,16 @@
+---
+search_recipe:
+  category_name: "Micro CHP"
+  
+  scope_statements:
+    - "Efficient and low-carbon micro-CHP solutions for home and small-scale use"
+    - "Micro chp technologies and solutions"
+    - "Micro combined heat and power systems"
+
+  keyword_sets:
+    - set_name: "Micro CHP keywords"
+      keywords:
+        - "micro-combined heat and power"
+        - "micro-chp"
+        - "micro chp"
+        - "micro combined heat and power"

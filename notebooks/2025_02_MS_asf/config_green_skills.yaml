@@ -1,0 +1,13 @@
+---
+search_recipe:
+  category_name: "Green skills"
+  
+  scope_statements:
+    - "Developing a workforce skilled in sustainable and low-carbon technologies"
+    - "Upskilling and reskilling workers for the green economy"
+    - "Supporting green skills development in key industries"
+
+  keyword_sets:
+    - set_name: "Green skills keywords"
+      keywords:
+        - "green skills"

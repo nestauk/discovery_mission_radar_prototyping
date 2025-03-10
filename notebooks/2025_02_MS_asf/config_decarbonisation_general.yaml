@@ -1,0 +1,18 @@
+---
+search_recipe:
+  category_name: "Decarbonisation - General"
+
+  scope_statements:
+    - "Decarbonisation technologies and solutions"
+    - "Decarbonisation innovations"
+    - "Companies developing decarbonisation products"
+
+  keyword_sets:
+    - set_name: "Decarbonisation - General keywords"
+      keywords:
+        - "great british energy"
+        - "gb energy"
+        - "climate tech"
+        - "green tech"
+        - "sustainability"
+        - "net zero material"

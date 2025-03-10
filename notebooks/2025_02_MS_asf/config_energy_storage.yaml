@@ -1,0 +1,15 @@
+---
+search_recipe:
+  category_name: "Energy storage"
+
+  scope_statements:
+    - "Energy storage solutions for residential use"
+    - "Enhancing the integration of renewable energy through storage"
+    - "Energy storage for homes"
+
+  keyword_sets:
+    - set_name: "Energy storage keywords"
+      keywords:
+        - "battery"
+        - "batteries"
+        - "energy storage"

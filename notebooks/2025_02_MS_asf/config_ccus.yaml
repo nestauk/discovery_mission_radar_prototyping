@@ -1,0 +1,14 @@
+---
+search_recipe:
+  category_name: "CCUS"
+
+  scope_statements:
+    - "Carbon capture, utilisation and storage technologies, solutions and innovations"
+    - "Companies that convert captured carbon into valuable products"
+    - "Companies that develop or implement carbon capture technologies"
+
+  keyword_sets:
+    - set_name: "CCUS keywords"
+      keywords:
+        - "carbon storage"
+        - "carbon capture"

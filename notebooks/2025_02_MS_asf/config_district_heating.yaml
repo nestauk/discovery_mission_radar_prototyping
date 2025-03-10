@@ -1,0 +1,14 @@
+---
+search_recipe:
+  category_name: "District heating"
+
+  scope_statements:
+    - "Companies developing or operating district heating networks"
+    - "District heating technologies and solutions"
+
+  keyword_sets:
+    - set_name: "District heating keywords"
+      keywords:
+        - "heat network"
+        - "district heat"
+        - "district heating"

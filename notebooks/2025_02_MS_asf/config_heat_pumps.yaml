@@ -1,0 +1,14 @@
+---
+search_recipe:
+  category_name: "Heat pumps"
+  
+  scope_statements:
+    - "Sustainable and energy-efficient heat pump solutions for residential heating"
+    - "Decarbonising home heating through heat pump technology"
+    - "Integration of heat pumps with smart home and renewable energy systems"
+
+  keyword_sets:
+    - set_name: "Heat pumps keywords"
+      keywords:
+        - "heat pumps"
+        - "heat pump"

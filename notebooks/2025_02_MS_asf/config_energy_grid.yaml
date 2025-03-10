@@ -1,0 +1,15 @@
+---
+search_recipe:
+  category_name: "Energy grid"
+  
+  scope_statements:
+    - "Technologies to decarbonise and upgrade energy grids"
+    - "Integration of renewable energies into energy grids"
+    - "Enhancing energy grid resilience and efficiency"
+
+  keyword_sets:
+    - set_name: "Energy grid keywords"
+      keywords:
+        - "electricity grid"
+        - "demand response"
+        - "energy grid"

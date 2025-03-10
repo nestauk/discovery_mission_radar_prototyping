@@ -1,0 +1,11 @@
+---
+search_recipe:
+  category_name: "Renewables"
+
+  scope_statements:
+    - "Renewable energy solutions"
+
+  keyword_sets:
+    - set_name: "Renewables - General keywords"
+      keywords:
+        - "renewable energy"

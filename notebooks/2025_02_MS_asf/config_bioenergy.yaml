@@ -1,0 +1,15 @@
+---
+search_recipe:
+  category_name: "Bioenergy"
+  
+  scope_statements:
+    - "Bioenergy solutions for low carbon energy systems"
+    - "Bioenergy for household energy use"
+    - "Sustainable bioenergy solutions"
+    - "Bioenergy for generating heat, electricity, and fuels (for example: ethanol, biodiesel)"
+
+  keyword_sets:
+    - set_name: "Bioenergy keywords"
+      keywords:
+        - "bioenergy"
+        - "biofuel"

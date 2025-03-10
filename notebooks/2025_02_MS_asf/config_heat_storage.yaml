@@ -1,0 +1,17 @@
+---
+search_recipe:
+  category_name: "Heat storage"
+  
+  scope_statements:
+    - "Sustainable heat storage solutions for residential heating and energy efficiency"
+    - "Enhancing home heating flexibility with heat storage technology"
+    - "Integration of heat storage with low-carbon home heating systems"
+
+  keyword_sets:
+    - set_name: "Heat storage keywords"
+      keywords:
+        - "heat batteries"
+        - "heat battery"
+        - "thermal storage"
+        - "heat storage"
+        - "thermal energy storage"

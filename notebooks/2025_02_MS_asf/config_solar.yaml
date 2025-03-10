@@ -1,0 +1,14 @@
+---
+search_recipe:
+  category_name: "Solar"
+  
+  scope_statements:
+    - "Solar energy for homes"
+    - "Solar energy technologies for households"
+
+  keyword_sets:
+    - set_name: "Solar keywords"
+      keywords:
+        - "photovoltaic"
+        - "solar panel"
+        - "solar energy"

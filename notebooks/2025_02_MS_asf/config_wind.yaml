@@ -1,0 +1,15 @@
+---
+search_recipe:
+  category_name: "Wind"
+  
+  scope_statements:
+    - "Wind energy technologies"
+    - "Wind energy solutions for domestic use"
+    - "Integrating wind energy with storage and smart systems"
+
+  keyword_sets:
+    - set_name: "Wind keywords"
+      keywords:
+        - "wind farm"
+        - "wind turbine"
+        - "wind energy"

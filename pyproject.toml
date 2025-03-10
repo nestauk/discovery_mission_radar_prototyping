@@ -12,12 +12,13 @@ packages = [
 python = ">=3.10, <3.12"
 jupyter = "^1.1.1"
 ipython = "^8.29.0"
-discovery-utils = {git = "https://github.com/nestauk/discovery_utils.git", rev = "73-refactoring-utils"}
+discovery-utils = {git = "https://github.com/nestauk/discovery_utils.git", rev = "78-mission-radar-prototype"}
 langchain = "^0.3.7"
 langchain-openai = "^0.3.1"
 langchain-core = "^0.3.15"
 bertopic = "^0.16.4"
 vl-convert-python = "^1.7.0"
+pre-commit = "^4.1.0"
 
 
 [build-system]

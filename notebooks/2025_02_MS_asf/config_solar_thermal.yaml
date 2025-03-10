@@ -1,0 +1,13 @@
+---
+search_recipe:
+  category_name: "Solar thermal"
+
+  scope_statements:
+    - "Sustainable solar thermal heating solutions for homes and buildings"
+    - "Solar thermal heating technologies and innovations"
+    - "Integration of solar thermal with residential heating systems"
+
+  keyword_sets:
+    - set_name: "Solar thermal keywords"
+      keywords:
+        - "solar thermal"

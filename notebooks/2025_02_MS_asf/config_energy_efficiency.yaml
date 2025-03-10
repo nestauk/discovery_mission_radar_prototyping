@@ -1,0 +1,26 @@
+---
+search_recipe:
+  category_name: "Energy efficiency"
+
+  scope_statements:
+    - "Companies that develop technologies and services to improve energy efficiency in homes"
+    - "Innovative technologies for reducing household energy consumption"
+
+  keyword_sets:
+    - set_name: "Energy efficiency keywords"
+      keywords:
+        - "energy efficiency"
+        - "energy management"
+        - "insulation"
+        - "retrofit"        
+        - "smart thermostat"
+        - "smart meter"        
+    - set_name: "Household keywords"
+      keywords:
+        - "household"
+        - "home"
+        - "house"
+        - "residential"
+        - "build"
+        - "built"
+        - "building"
