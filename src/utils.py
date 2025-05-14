@@ -9,23 +9,47 @@ from src import logging
 PROJECT_NAME = "2025_02_MS_asf"
 OUTPUT_DIR = PROJECT_DIR / f"data/{PROJECT_NAME}"
 
+# CONFIG_NAMES = [
+#     "bioenergy",
+#     "biomass_heating",
+#     "built_environment",
+#     "ccus",
+#     "district_heating",
+#     "energy_efficiency",
+#     "energy_grid",
+#     "geothermal_energy",
+#     "green_skills",
+#     "heat_pumps",
+#     "heat_storage",
+#     "hydrogen_energy",
+#     "hydrogen_heating",
+#     "micro_chp",
+#     "solar_thermal",
+# ]
+
 CONFIG_NAMES = [
-    "bioenergy",
+    # "bioenergy",
     "biomass_heating",
-    "built_environment",
+    # "built_environment",
     "ccus",
+    # "decarbonisation_general",
     "district_heating",
-    "energy_efficiency",
-    "energy_grid",
+    # "energy_efficiency",
+    # "energy_grid",
+    # "energy_storage",
     "geothermal_energy",
-    "green_skills",
+    # "green_skills",
     "heat_pumps",
     "heat_storage",
     "hydrogen_energy",
     "hydrogen_heating",
     "micro_chp",
+    # "renewables_general",
     "solar_thermal",
+    # "solar",
+    # "wind"
 ]
+
 
 CB_CATEGORIES = {
     # "decarbonisation_general",
