@@ -1,0 +1,23 @@
+---
+search_recipe:
+  category_name: "Personalised nutrition"
+
+  scope_statements:
+    - "Personalized nutrition and diet customization technologies"
+    - "Nutrigenomics and gut microbiome-based nutrition solutions"
+    - "Nutrition apps and personalized dietary interventions"
+
+  keyword_sets:
+    - set_name: "Personalization keywords"
+      keywords:
+        - "diet personalisation"
+        - "diet personalization"
+        - "gut microbiome"
+        - "nutrigenomics"
+        - "nutrition app"
+        - "nutrition personalisation"
+        - "nutrition personalization"
+        - "personalised diet"
+        - "personalised nutrition"
+        - "personalized diet"
+        - "personalized nutrition"

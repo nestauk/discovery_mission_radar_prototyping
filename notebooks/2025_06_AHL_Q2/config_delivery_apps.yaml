@@ -1,0 +1,23 @@
+---
+search_recipe:
+  category_name: "Delivery apps"
+
+  scope_statements:
+    - "Food delivery platforms and grocery delivery applications"
+    - "Ultra-fast delivery and last-mile delivery solutions"
+    - "Meal delivery services and delivery-only food brands"
+
+  keyword_sets:
+    - set_name: "Delivery platform keywords"
+      keywords:
+        - "delivery app"
+        - "delivery platform"
+        - "delivery-only food brand"
+        - "food delivery"
+        - "grocery deliveries"
+        - "grocery delivery"
+        - "meal deliveries"
+        - "meal delivery"
+        - "10 min delivery"
+        - "last mile delivery"
+        - "ultra fast delivery"

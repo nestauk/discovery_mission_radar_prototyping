@@ -1,0 +1,22 @@
+---
+search_recipe:
+  category_name: "Reformulation - General"
+
+  scope_statements:
+    - "General food reformulation technologies and low-calorie innovations"
+    - "Synthetic biology applications in food and nutrition"
+    - "Food ingredient innovation and reformulation solutions"
+
+  keyword_sets:
+    - set_name: "Reformulation keywords"
+      keywords:
+        - "reformulated"
+        - "reformulation"
+        - "low calorie"
+        - "low calorie density"
+    - set_name: "Nutrition context keywords"
+      keywords:
+        - "food"
+        - "ingredient"
+        - "nutrient"
+        - "nutrition"

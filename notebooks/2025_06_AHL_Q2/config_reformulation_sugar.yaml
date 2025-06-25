@@ -1,0 +1,21 @@
+---
+search_recipe:
+  category_name: "Reformulation - Sugar"
+
+  scope_statements:
+    - "Sugar reduction and artificial sweetener technologies"
+    - "Low-sugar and sugar-free food formulation innovations"
+    - "Sugar substitute and alternative sweetener solutions"
+
+  keyword_sets:
+    - set_name: "Sugar alternatives keywords"
+      keywords:
+        - "artificial sugar"
+        - "artificial sweetener"
+        - "diet sugar"
+        - "sugar substitute"
+        - "low calorie sugar"
+        - "low sugar"
+        - "reduced sugar"
+        - "sugar free"
+        - "sugar reduction"

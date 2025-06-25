@@ -1,0 +1,18 @@
+---
+search_recipe:
+  category_name: "Weight"
+
+  scope_statements:
+    - "Weight management technologies and obesity prevention solutions"
+    - "Digital health solutions for diabetes, obesity, and weight loss"
+    - "Medical technologies for weight management and metabolic health"
+
+  keyword_sets:
+    - set_name: "Weight management keywords"
+      keywords:
+        - "diabetes"
+        - "obesity"
+        - "overweight"
+        - "weight loss"
+        - "obesity prevention"
+        - "neurogastroenterology"

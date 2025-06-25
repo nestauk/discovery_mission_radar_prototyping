@@ -1,0 +1,33 @@
+---
+search_recipe:
+  category_name: "Kitchen tech"
+
+  scope_statements:
+    - "Kitchen automation and smart appliance technologies"
+    - "Robotic kitchen solutions and cooking technology innovations"
+    - "Kitchen management software and intelligent cooking devices"
+
+  keyword_sets:
+    - set_name: "Kitchen automation keywords"
+      keywords:
+        - "automated kitchen"
+        - "kitchen automation"
+        - "smart kitchen"
+        - "intelligent kitchen"
+        - "robot chef"
+        - "robot cook"
+        - "robot kitchen"
+        - "robotic chef"
+        - "robotic cook"
+        - "robotic kitchen"
+        - "cooking tech"
+        - "cooking technology"
+        - "intelligent appliance"
+        - "kitchen app"
+        - "kitchen device"
+        - "kitchen management software"
+        - "kitchen software"
+        - "kitchen tech"
+        - "kitchen technology"
+        - "recipe app"
+        - "smart appliance"

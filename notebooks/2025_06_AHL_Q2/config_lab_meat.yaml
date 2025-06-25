@@ -1,0 +1,30 @@
+---
+search_recipe:
+  category_name: "Lab meat"
+
+  scope_statements:
+    - "Cultivated meat and cell-based protein technologies"
+    - "Lab-grown meat and artificial protein production"
+    - "Synthetic meat and slaughter-free protein innovations"
+
+  keyword_sets:
+    - set_name: "Artificial meat keywords"
+      keywords:
+        - "artificial meat"
+        - "artificial protein"
+        - "fake meat"
+        - "synthetic meat"
+        - "synthetic protein"
+        - "cell-based meat"
+        - "cell-based protein"
+        - "clean meat"
+        - "cultivated meat"
+        - "cultivated protein"
+        - "cultured meat"
+        - "cultured protein"
+        - "in vitro meat"
+        - "in vitro protein"
+        - "lab-grown meat"
+        - "lab-grown protein"
+        - "no-kill meat"
+        - "slaughter-free meat"

@@ -1,0 +1,16 @@
+---
+search_recipe:
+  category_name: "Meal kits"
+
+  scope_statements:
+    - "Meal kit and recipe box delivery services"
+    - "Subscription box services for meal preparation"
+    - "Meal box and recipe kit innovations"
+
+  keyword_sets:
+    - set_name: "Meal kit keywords"
+      keywords:
+        - "meal box"
+        - "meal kit"
+        - "recipe box"
+        - "subscription box"

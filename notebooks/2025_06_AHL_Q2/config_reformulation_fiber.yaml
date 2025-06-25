@@ -1,0 +1,18 @@
+---
+search_recipe:
+  category_name: "Reformulation - Fiber"
+
+  scope_statements:
+    - "Dietary fiber enhancement and high-fiber food formulations"
+    - "Fiber additive technologies for food reformulation"
+    - "High-fiber food products and dietary fiber innovations"
+
+  keyword_sets:
+    - set_name: "Fiber enhancement keywords"
+      keywords:
+        - "dietary fiber"
+        - "dietary fibre"
+        - "fiber additive"
+        - "fibre additive"
+        - "high fiber"
+        - "high fibre"

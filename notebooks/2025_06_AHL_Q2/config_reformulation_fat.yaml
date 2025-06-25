@@ -1,0 +1,21 @@
+---
+search_recipe:
+  category_name: "Reformulation - Fat"
+
+  scope_statements:
+    - "Fat replacement and low-fat food reformulation technologies"
+    - "Alternative fat ingredients and fat substitute innovations"
+    - "Low-calorie fat alternatives and fat mimetic technologies"
+
+  keyword_sets:
+    - set_name: "Fat alternatives keywords"
+      keywords:
+        - "alternative emulsifier"
+        - "artificial fat"
+        - "artificial fatty acid"
+        - "fat mimetic"
+        - "fat replacement"
+        - "fat substitute"
+        - "fatty acid substitute"
+        - "low calorie fat"
+        - "low fat"

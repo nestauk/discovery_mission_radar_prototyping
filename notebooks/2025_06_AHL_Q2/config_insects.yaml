@@ -1,0 +1,13 @@
+---
+search_recipe:
+  category_name: "Insects"
+
+  scope_statements:
+    - "Insect protein technologies and entomophagy solutions"
+    - "Alternative protein from insect sources"
+    - "Insect-based protein production technologies"
+
+  keyword_sets:
+    - set_name: "Insect protein keywords"
+      keywords:
+        - "insect protein"

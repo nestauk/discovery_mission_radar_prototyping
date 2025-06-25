@@ -1,0 +1,25 @@
+---
+search_recipe:
+  category_name: "Restaurants"
+
+  scope_statements:
+    - "Restaurant technology and management software solutions"
+    - "Restaurant automation and robotics technologies"
+    - "Catering technology and restaurant operational software"
+
+  keyword_sets:
+    - set_name: "Restaurant keywords"
+      keywords:
+        - "restaurant"
+        - "restaurants"
+        - "catering"
+    - set_name: "Technology keywords"
+      keywords:
+        - "management software"
+        - "software"
+        - "tech"
+        - "technology"
+        - "automated"
+        - "automation"
+        - "robot"
+        - "robotics"
