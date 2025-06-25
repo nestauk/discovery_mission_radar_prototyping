@@ -1,0 +1,15 @@
+---
+search_recipe:
+  category_name: "Food tech - General"
+
+  scope_statements:
+    - "General food technology and food science innovations"
+    - "Companies developing food technology solutions and healthy food products"
+    - "Food science and foodtech innovations"
+
+  keyword_sets:
+    - set_name: "Food tech keywords"
+      keywords:
+        - "food science"
+        - "food tech"
+        - "foodtech"

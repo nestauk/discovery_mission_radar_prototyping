@@ -1,0 +1,17 @@
+---
+search_recipe:
+  category_name: "Plant-based"
+
+  scope_statements:
+    - "Plant-based meat and protein alternatives"
+    - "Vegetable protein and plant-based food innovations"
+    - "Plant-based burger and meat substitute technologies"
+
+  keyword_sets:
+    - set_name: "Plant-based keywords"
+      keywords:
+        - "plant burger"
+        - "plant-based burger"
+        - "plant-based meat"
+        - "plant-based protein"
+        - "vegetable protein"

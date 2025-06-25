@@ -1,0 +1,18 @@
+---
+search_recipe:
+  category_name: "Health - General"
+
+  scope_statements:
+    - "General health technology and medical technology innovations"
+    - "AgeTech and healthcare technology solutions"
+    - "Digital health and medical device technologies"
+
+  keyword_sets:
+    - set_name: "Health tech keywords"
+      keywords:
+        - "age tech"
+        - "agetech"
+        - "health tech"
+        - "healthtech"
+        - "med tech"
+        - "medtech"

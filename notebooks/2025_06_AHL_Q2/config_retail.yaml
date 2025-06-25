@@ -1,0 +1,27 @@
+---
+search_recipe:
+  category_name: "Retail"
+
+  scope_statements:
+    - "Retail technology and supermarket automation solutions"
+    - "In-store technology and retail management software"
+    - "Checkout technology and retail robotics innovations"
+
+  keyword_sets:
+    - set_name: "Retail keywords"
+      keywords:
+        - "retail"
+        - "supermarket"
+        - "in-store"
+        - "check-out"
+        - "checkout"
+    - set_name: "Technology keywords"
+      keywords:
+        - "management software"
+        - "software"
+        - "tech"
+        - "technology"
+        - "automate"
+        - "automation"
+        - "robot"
+        - "robotics"

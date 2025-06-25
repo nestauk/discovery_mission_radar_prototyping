@@ -1,0 +1,15 @@
+---
+search_recipe:
+  category_name: "Reformulation - Salt"
+
+  scope_statements:
+    - "Salt reduction technologies and low-sodium food formulations"
+    - "Reduced salt food products and sodium alternatives"
+    - "Salt reduction innovations in food processing"
+
+  keyword_sets:
+    - set_name: "Salt reduction keywords"
+      keywords:
+        - "low salt"
+        - "reduced salt"
+        - "salt reduction"

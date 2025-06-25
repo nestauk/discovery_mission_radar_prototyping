@@ -1,0 +1,16 @@
+---
+search_recipe:
+  category_name: "Alt protein - General"
+
+  scope_statements:
+    - "Alternative protein technologies"
+    - "Plant-based and alternative protein innovations"
+    - "Seafood and dairy substitute technologies"
+
+  keyword_sets:
+    - set_name: "Alternative protein keywords"
+      keywords:
+        - "alt protein"
+        - "alternative protein"
+        - "dairy substitute"
+        - "seafood substitute"

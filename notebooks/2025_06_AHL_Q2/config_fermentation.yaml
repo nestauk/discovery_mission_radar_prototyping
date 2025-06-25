@@ -1,0 +1,16 @@
+---
+search_recipe:
+  category_name: "Fermentation"
+
+  scope_statements:
+    - "Fermentation technologies for protein production"
+    - "Precision fermentation and mycoprotein innovations"
+    - "Biomass fermentation and alternative protein production"
+
+  keyword_sets:
+    - set_name: "Fermentation keywords"
+      keywords:
+        - "biomass fermentation"
+        - "mycoprotein"
+        - "precision fermentation"
+        - "quorn"

@@ -1,0 +1,29 @@
+---
+search_recipe:
+  category_name: "Supply chain"
+
+  scope_statements:
+    - "Food supply chain automation and cold chain technologies"
+    - "Warehouse robotics and automated fulfillment solutions"
+    - "Robotic picking and supply chain optimization technologies"
+
+  keyword_sets:
+    - set_name: "Supply chain keywords"
+      keywords:
+        - "fulfillment"
+        - "fulfilment"
+        - "warehouse"
+        - "picking"
+        - "picker"
+        - "cold chain"
+        - "supply chain"
+    - set_name: "Automation keywords"
+      keywords:
+        - "management software"
+        - "software"
+        - "tech"
+        - "technology"
+        - "automate"
+        - "automation"
+        - "robot"
+        - "robotics"
